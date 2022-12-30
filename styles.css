@@ -6,6 +6,9 @@ height: 100%;
 margin:90px;
 padding:10px;
 }
+body{
+    background-color: black;
+}
 .superior{
     height:80px;
 }
